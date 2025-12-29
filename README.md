@@ -73,7 +73,6 @@ The UART receiver was validated using layered verification across RTL, simulatio
 
 
 
-
 ---
 
 ## 🛠️ Tech Stack
