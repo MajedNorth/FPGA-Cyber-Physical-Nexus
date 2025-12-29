@@ -50,8 +50,7 @@ The UART receiver was validated using layered verification across RTL, simulatio
 
 **1. Simulation (Data Integrity)**  
 *Correct start/data/stop handling and byte reconstruction verified via simulation (Vivado).*  
-<!-- ![Simulation Waveform](./Media/uart_rx_simulation_waveform.png) --> 
-
+![Simulation Waveform](./Media/uart_rx_simulation_waveform.png)
 
 *(Example: Byte `0x41` ('A') captured with no frame errors.)*
 
