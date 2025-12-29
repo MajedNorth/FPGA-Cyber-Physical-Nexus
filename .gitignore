@@ -1,0 +1,9 @@
+# Vivado Junk
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.bit
+.Xil/
+project_1/
