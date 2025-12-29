@@ -69,7 +69,7 @@ The UART receiver was validated using layered verification across RTL, simulatio
 
 * **Capture 2:** ASCII `'1'` (0x31) — verified LSB-first ordering.
 
-![0x31](./Media/1.JPG)
+![0x31](./Media/1.jpg)
 
 
 
