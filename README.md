@@ -63,14 +63,14 @@ The UART receiver was validated using layered verification across RTL, simulatio
 
 **3. Hardware Validation (Physical Timing)**  
 * **Setup:** Rigol DS1054Z probing FPGA Pmod pins.
-* 
-* **Capture 1:** ASCII `'p'` (0x70) — ~104 µs bit width (9600 baud).  
+* **Capture 1:** ASCII `'p'` (0x70) — ~104 µs bit width (9600 baud).
+
+![0x70](./Media/UART_p.JPG)
+
+  
 * **Capture 2:** ASCII `'1'` (0x31) — verified LSB-first ordering.
 
-![(0x70](./Media/Media/p.JPG)
-
-
-![0x31](./Media/1.JPG)
+![0x31](./Media/UART_1.JPG)
 
 
 
